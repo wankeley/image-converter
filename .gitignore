@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+# The ImageMagick installer is not part of the converter source.
+ImageMagick-*.exe
